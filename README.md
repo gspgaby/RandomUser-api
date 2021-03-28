@@ -9,8 +9,8 @@ informações dos usuários devem conter, pelo menos:
 - Email
 - Senha
 
-## Technologies
-The following technologies was used to complete the challenge:
+## Tecnologias
+Foram usadas:
 
 - Node.js
 - Express
