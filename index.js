@@ -10,6 +10,7 @@ app.get('/', (req, res) => { res.send(
     {
         firstName: faker.name.firstName(),
         lastName: faker.name.lastName(),
+        gender: faker.name.gender(),
         address: {
             city: faker.address.city(),
             country: faker.address.country(),
