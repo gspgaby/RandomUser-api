@@ -1,0 +1,24 @@
+{
+  "name": "randomuser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gspgaby/RandomUser-api.git"
+  },
+  "author": "Gabriella dos Santos Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gspgaby/RandomUser-api/issues"
+  },
+  "homepage": "https://github.com/gspgaby/RandomUser-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^5.5.1"
+  }
+}
